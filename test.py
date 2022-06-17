@@ -1,2 +1,2 @@
-from dteam import __Dark__
-__Dark__()
+from team import buy
+buy()
