@@ -1,2 +1,2 @@
-from team import buy
+from dteam import buy
 buy()
